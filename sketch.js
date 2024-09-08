@@ -1,5 +1,4 @@
-/* The Game Project GP6 - Week 12 Multiple Interactables */
-
+/* The Game Project*/
 
 var gameChar_x;
 var gameChar_y;
