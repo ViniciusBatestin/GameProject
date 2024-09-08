@@ -1,4 +1,4 @@
-/* The Game Project*/
+/* The Game Project UoL */
 
 var gameChar_x;
 var gameChar_y;
